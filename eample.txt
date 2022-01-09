@@ -1,0 +1,11 @@
+Folder A	- 20-Dec-2021
+
+	FolderB	- 01-NOV-2021
+	FolderC	- 25-DEC-2021
+	FileD	- 01-Sep-2021
+	FileE	- 05-JAN-2021
+FileF	-	01-SEp-2021
+FileG	-10-JAN-2022
+
+
+path : \FolderA\FileD
